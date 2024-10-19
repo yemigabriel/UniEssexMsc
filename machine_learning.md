@@ -4,12 +4,12 @@ Eportfolio of work done on my Machine Learning module at the University of Essex
 ## Units
 Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
 - ### Units 1- 3
-	- **Collaborative Discussion 1**
-		- **[Initial Post](yemigabriel.github.io/ml/discussion1_initial_post)**
-		- **[Peer Response to Md Amin](#)**
-		- **[Peer Response to Alboin](#)**
-		- **[Summary Post](#)**
-        
+	- **Collaborative Discussion 1: The 4th Industrial Revolution**
+		- **[Initial Post](https://yemigabriel.github.io/UniEssexMsc/posts/discussion1_initial_post)**
+		- **[Peer Response to Md Amin](https://yemigabriel.github.io/UniEssexMsc/posts/discussion1_peer_response_1)**
+		- **[Peer Response to Alboin](https://yemigabriel.github.io/UniEssexMsc/posts/discussion1_peer_response_2)**
+		- **[Summary Post](https://yemigabriel.github.io/UniEssexMsc/posts/discussion1_summary_post)**
+
 ---
 - ### Unit 2 
 ---
@@ -25,10 +25,12 @@ Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ip
 ---
 - ### Unit 8
 	- **Collaborative Discussion 2**
-		- **[Initial Post](yemigabriel.github.io/ml/discussion1_initial_post)**
+		- **[Initial Post](yemigabriel.github.io/ml/discussion2_initial_post)**
 		- **[Peer Response to Md Amin](#)**
 		- **[Peer Response to Alboin](#)**
 		- **[Summary Post](#)**
+
+
 ---
 - ### Unit 9
 ---
