@@ -37,6 +37,3 @@ Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ip
 ---
 - ### Unit 12
 ---
-
-
-> Written with [StackEdit](https://stackedit.io/).
