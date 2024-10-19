@@ -3,7 +3,7 @@
 ### Induction Computing
 ### Understanding Artificial Intelligence
 ### Numerical Analysis
-### [Machine Learning](https://github.com/yemigabriel/UniEssexMsc/blob/master/sample_page.md)
+### [Machine Learning](https://yemigabriel.github.io/UniEssexMsc/machine_learning)
 
 ---
 
