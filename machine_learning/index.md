@@ -39,11 +39,11 @@ A breakdown of each unit including the e-Portfolio and formative activities.
 
 ---
 - ### Unit 6
-	- K-Means Clustering Tutorial
 	- **Artefacts:**
 		- [Task A: Iris data](#)
 		- [Task B: Wine data](#)
 		- [Task C: WeatherAUS data](#)
+		- [Development Team Project: Project Analysis: Airbnb business analysis using data science approach](#)
 
 ---
 - ### Unit 7
@@ -70,6 +70,8 @@ A breakdown of each unit including the e-Portfolio and formative activities.
 ---
 - ### Unit 10
 	- [CNN Tutorial](#)
+
+
 ---
 - ### Unit 11
 	- [e-Portfolio Activity: Model Performance Measurement](#)
@@ -83,3 +85,7 @@ A breakdown of each unit including the e-Portfolio and formative activities.
 
 
 ---
+- ### Development Individual Project: Presentation
+	- [Presentation](#)
+	- [Oral Transcript](#)
+	- [Video](#)
