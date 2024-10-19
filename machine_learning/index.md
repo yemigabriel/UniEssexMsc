@@ -13,8 +13,10 @@ A breakdown of each unit including the e-Portfolio and formative activities.
 
 ---
 - ### Unit 2 
-    - **Artifacts:**
-        - **[Exploratory Data Analysis](artefacts/eda): A tutorial on conducting exploratory data analysis as part of the machine learning process.
+    - **Artefacts:**
+        - **[Exploratory Data Analysis](artefacts/eda):** A tutorial on conducting exploratory data analysis as part of the machine learning process.
+
+
 ---
 - ### Unit 3
 ---
