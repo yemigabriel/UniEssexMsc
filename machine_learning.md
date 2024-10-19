@@ -2,7 +2,8 @@
 Eportfolio of work done on my Machine Learning module at the University of Essex
 
 ## Units
-Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
+A breakdown of each unit includcing the e-Portfolio and formative activities.
+
 - ### Units 1- 3
 	- **Collaborative Discussion 1: The 4th Industrial Revolution**
 		- **[Initial Post](posts/discussion1_initial_post)**
