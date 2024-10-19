@@ -1,9 +1,8 @@
 ## Exploratory Data Analysis (EDA)
 
-<div>
-  <iframe id="inlineFrameExample"
-      title="Inline Frame Example"
-      width="100%"
-      src="house_prices.html">
-  </iframe>
-</div>
+**[EDA Practice on Github](https://github.com/yemigabriel/EDA-Practice/blob/main/house_prices.ipynb)**
+
+### Relection
+lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum 
+
+lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum 
