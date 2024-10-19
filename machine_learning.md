@@ -2,7 +2,7 @@
 Eportfolio of work done on my Machine Learning module at the University of Essex
 
 ## Units
-Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
+Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
 - ### Units 1- 3
 	- **Collaborative Discussion 1**
 		- **[Initial Post](yemigabriel.github.io/ml/discussion1_initial_post)**
