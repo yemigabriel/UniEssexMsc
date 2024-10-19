@@ -6,10 +6,10 @@ A breakdown of each unit including the e-Portfolio and formative activities.
 
 - ### Units 1- 3
 	- **Collaborative Discussion 1: The 4th Industrial Revolution**
-		- **[Initial Post](posts/discussion1_initial_post)**
-		- **[Peer Response to Marwa Alkuwari](posts/discussion1_peer_response_1)**
-		- **[Peer Response to Noora Alboinin](posts/discussion1_peer_response_2)**
-		- **[Summary Post](posts/discussion1_summary_post)**
+		- [Initial Post](posts/discussion1_initial_post)
+		- [Peer Response to Marwa Alkuwari](posts/discussion1_peer_response_1)
+		- [Peer Response to Noora Alboinin](posts/discussion1_peer_response_2)
+		- [Summary Post](posts/discussion1_summary_post)
 
 ---
 - ### Unit 2 
@@ -19,11 +19,12 @@ A breakdown of each unit including the e-Portfolio and formative activities.
 
 ---
 - ### Unit 3
+	- [Reflection](artefacts/unit3_reflection)
 	- **Artefacts:**
-		- [Covariance Pearson Correlation](#)
-		- [Linear Regression](#)
-		- [Multiple Linear Regression](#)
-		- [Polinomial Regression](#)
+		- [Covariance Pearson Correlation](https://github.com/yemigabriel/MachineLearningUnit3/blob/main/covariance_pearson_correlation.ipynb)
+		- [Linear Regression](https://github.com/yemigabriel/MachineLearningUnit3/blob/main/linear_regression.ipynb)
+		- [Multiple Linear Regression](https://github.com/yemigabriel/MachineLearningUnit3/blob/main/multiple_linear_regression.ipynb)
+		- [Polynomial Regression](https://github.com/yemigabriel/MachineLearningUnit3/blob/main/polynomial_regression.ipynb)
 
 ---
 - ### Unit 4
@@ -56,10 +57,10 @@ A breakdown of each unit including the e-Portfolio and formative activities.
 
 - ### Unit 8 - 10
 	- **Collaborative Discussion 2: Legal and Ethical views on ANN applications**
-		- **[Initial Post](posts/discussion2_initial_post.md)**
-		- **[Peer Response to Md Aminur Rahman](posts/discussion2_peer_response_1.md)**
-		- **[Peer Response to Noora Alboinin](posts/discussion2_peer_response_2.md)**
-		- **[Summary Post](posts/discussion2_summary_post.md)**
+		- [Initial Post](posts/discussion2_initial_post.md)
+		- [Peer Response to Md Aminur Rahman](posts/discussion2_peer_response_1.md)
+		- [Peer Response to Noora Alboinin](posts/discussion2_peer_response_2.md)
+		- [Summary Post](posts/discussion2_summary_post.md)
 
 
 ---
