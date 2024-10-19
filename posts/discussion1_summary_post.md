@@ -1,4 +1,4 @@
-## Summary Post  
+## Collaborative Discussion 1: Summary Post  
 
 Using Crowdstrike as an example, my initial post discussed the risk of cascading technical failures in interconnected systems of the fourth industrial age. My peers' initial posts also discussed the risks of technical failure, cyber attacks, and data breaches. This summary post will discuss these key risks and possible measures to mitigate them.
 

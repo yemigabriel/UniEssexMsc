@@ -24,11 +24,11 @@ Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ip
 - ### Unit 7
 ---
 - ### Unit 8
-	- **Collaborative Discussion 2**
-		- **[Initial Post](yemigabriel.github.io/ml/discussion2_initial_post)**
-		- **[Peer Response to Md Amin](#)**
-		- **[Peer Response to Alboin](#)**
-		- **[Summary Post](#)**
+	- **Collaborative Discussion 2: Legal and Ethical views on ANN applications**
+		- **[Initial Post](posts/discussion2_initial_post.md)**
+		- **[Peer Response to Md Amin](posts/discussion2_peer_response_1.md)**
+		- **[Peer Response to Alboin](posts/discussion2_peer_response_2.md)**
+		- **[Summary Post](posts/discussion2_summary_post.md)**
 
 
 ---
