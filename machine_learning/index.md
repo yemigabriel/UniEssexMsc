@@ -43,7 +43,7 @@ A breakdown of each unit including the e-Portfolio and formative activities.
 		- [Task A: Iris data](#)
 		- [Task B: Wine data](#)
 		- [Task C: WeatherAUS data](#)
-		- [Development Team Project: Project Analysis: Airbnb business analysis using data science approach](#)
+		- [Development Team Project: Project Analysis: Airbnb business analysis using data science approach](https://docs.google.com/document/d/11BYKiV6euakn5wwhpxWo7Ke6H6lwhrGP4llHwVp2RQA/edit?usp=sharing)
 
 ---
 - ### Unit 7
