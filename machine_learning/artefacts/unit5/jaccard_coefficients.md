@@ -2,6 +2,7 @@
 **[Unit 5: e-Portfolio Activity: Jaccard Coefficient Calculations on Github](https://github.com/yemigabriel/UniEssexMachineLearningUnit5/blob/main/jaccard_coefficients.ipynb)**
 
 The calculation of the Jaccard coefficient helps a assess the similarity between test results of Jack, Mary, and Jim. The Jaccard formula quantifies the similarity by evaluating the ratio of the intersection of two sets to their union. This points out the overlap in their test results. The resulting Jaccard coefficient has values ranging from 0 (no similarity) to 1 (complete similarity). This analysis is useful in contexts such as clustering, recommendation systems, or social network analysis.
+
 One-hot encoding was necessary to convert the categorical data: 'Y', 'N', 'P', and 'A' into numerical vectors. After this was done, I used Scikit-learn to calculate the coefficients. Based on the results, Jack and Mary's results are more similar.
 
 ---
