@@ -1,12 +1,10 @@
 ## Exploratory Data Analysis (EDA)
 
-**[EDA Practice on Github](https://github.com/yemigabriel/EDA-Practice/blob/main/house_prices.ipynb)**
+**[EDA Tutotial on Github](https://github.com/yemigabriel/EDA-Practice/blob/main/house_prices.ipynb)**
 
-### Reflection
-lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
+This unit focused on an EDA tutorial using a house price dataset. Despite my programming background, It was still a significant learning experience for me, as it was first time using Python for data analysis. I supplemented my learning with Youtube videos and Library materials on Pandas. It helped me gain confidence while learning and practicing. 
 
 ---
-
 
 <style type="text/css">
     pre { line-height: 125%; }
@@ -2748,12 +2746,12 @@ body {
 /* Disable native link decoration styles everywhere outside of dialog boxes */
 a {
   text-decoration: unset;
-  color: unset;
+  /* color: unset; */
 }
 
 a:hover {
   text-decoration: unset;
-  color: unset;
+  /* color: unset; */
 }
 
 /* Accessibility for links inside dialog box text */
@@ -5341,7 +5339,7 @@ h6:hover .jp-InternalAnchorLink {
 }
 
 .jp-OutputArea-prompt {
-  display: table-cell;
+  display: table-row;
   vertical-align: top;
 }
 
@@ -5799,7 +5797,7 @@ Note: input and output wrappers have "display: block" propery in print mode.
 }
 
 .jp-InputPrompt {
-  display: table-cell;
+  display: table-row;
   vertical-align: top;
   width: var(--jp-cell-prompt-width);
   color: var(--jp-cell-inprompt-font-color);
@@ -5812,7 +5810,7 @@ Note: input and output wrappers have "display: block" propery in print mode.
   border: var(--jp-border-width) solid transparent;
 
   /* Right align prompt text, don't wrap to handle large prompt numbers */
-  text-align: right;
+  /* text-align: right; */
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -7477,7 +7475,7 @@ a.anchor-link {
     white-space: normal;
   }
 </style>
-<!-- End of mermaid configuration --></head>
+<!-- End of mermaid configuration -->
 <body class="jp-Notebook" data-jp-theme-light="true" data-jp-theme-name="JupyterLab Light">
 <main>
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
