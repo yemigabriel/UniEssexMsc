@@ -35,7 +35,7 @@ A breakdown of each unit including the e-Portfolio and formative activities.
 - ### Unit 5
 	- **[Wiki Activity](#)**
 	- **Artefact:**
-		- [Jaccard Coefficient Calculations](#)
+		- [Jaccard Coefficient Calculations](artefacts/unit5/jaccard_coefficients)
 
 ---
 - ### Unit 6
