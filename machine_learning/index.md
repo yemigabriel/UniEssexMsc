@@ -28,7 +28,7 @@ A breakdown of each unit including the e-Portfolio and formative activities.
 
 ---
 - ### Unit 4
-	- **Artefacts:**
+	- **Unit 4 Seminar Preparation:**
 		- [Task A: Correlation](#)
 		- [Task B: Regression](#)
 
