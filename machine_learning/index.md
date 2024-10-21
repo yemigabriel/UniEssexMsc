@@ -19,7 +19,6 @@ A breakdown of each unit including the e-Portfolio and formative activities.
 
 ---
 - ### Unit 3
-	- [Reflection](artefacts/unit3_reflection)
 	- **Artefacts:**
 		- [Covariance Pearson Correlation](https://github.com/yemigabriel/MachineLearningUnit3/blob/main/covariance_pearson_correlation.ipynb)
 		- [Linear Regression](https://github.com/yemigabriel/MachineLearningUnit3/blob/main/linear_regression.ipynb)
@@ -47,12 +46,11 @@ A breakdown of each unit including the e-Portfolio and formative activities.
 
 ---
 - ### Unit 7
-	- **[Perceptron Activities](#)**
-
+	- **Perceptron Activities:** Involved running the given notebooks showing simple perceptron, and multi-layer perceptrons.
 
 ---
 - ### Unit 8
-	- **[Gradient Cost Function](#)**
+	- **Gradient Cost Function:** Involved running the given notebook, experimenting with gradient cost function.
 
 - ### Unit 8 - 10
 	- **Collaborative Discussion 2: Legal and Ethical views on ANN applications**
@@ -65,16 +63,12 @@ A breakdown of each unit including the e-Portfolio and formative activities.
 ---
 - ### Unit 9
 	- **Artefacts:**
-		- [CNN Model Activity](#)
+		- [CNN Model Activity](https://github.com/yemigabriel/Unit9/blob/main/Unit09_Ex1_Convolutional_Neural_Networks.ipynb)
 
 ---
-- ### Unit 10
-	- [CNN Tutorial](#)
 
-
----
 - ### Unit 11
-	- [e-Portfolio Activity: Model Performance Measurement](#)
+	- **e-Portfolio Activity: Model Performance Measurement:** Involved running the given notebook, experimenting model performance measurement
 	
 
 ---
@@ -86,6 +80,6 @@ A breakdown of each unit including the e-Portfolio and formative activities.
 
 ---
 - ### Development Individual Project: Presentation
-	- [Presentation](#)
-	- [Oral Transcript](#)
-	- [Video](#)
+	- [Presentation](https://docs.google.com/presentation/d/140YBeBsNCMMBzY7Yqk5MtINelqIxoQxjP3uyxlEFWPY/edit?usp=sharing)
+	- [Oral Transcript](https://docs.google.com/document/d/1jh9Bi3MlhslWkZqULUwPmXT_IUPAYGIS2v2VCyDJXoc/edit?usp=sharing)
+	- [Video](https://drive.google.com/file/d/1TBRy_nU5TA4rbR8dlXAUmEcgsVh2kuoR/view?usp=sharing)
