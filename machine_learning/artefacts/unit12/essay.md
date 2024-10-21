@@ -1,6 +1,6 @@
 ### Reflective Essay: Machine Learning
 
-
+---
 
 **Introduction**
 
