@@ -69,6 +69,10 @@ A breakdown of each unit including the e-Portfolio and formative activities.
 
 - ### Unit 11
 	- **e-Portfolio Activity: Model Performance Measurement:** Involved running the given notebook, experimenting model performance measurement
+	- **Development Individual Project: Presentation:**
+		- [Slides](https://docs.google.com/presentation/d/140YBeBsNCMMBzY7Yqk5MtINelqIxoQxjP3uyxlEFWPY/edit?usp=sharing)
+		- [Oral Transcript](https://docs.google.com/document/d/1jh9Bi3MlhslWkZqULUwPmXT_IUPAYGIS2v2VCyDJXoc/edit?usp=sharing)
+		- [Video](https://drive.google.com/file/d/1TBRy_nU5TA4rbR8dlXAUmEcgsVh2kuoR/view?usp=sharing)
 	
 
 ---
