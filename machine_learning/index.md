@@ -42,7 +42,7 @@ A breakdown of each unit including the e-Portfolio and formative activities.
 		- [Task A: K-Means Clustering on Iris Dataset](https://github.com/yemigabriel/Unit6_KMeansCLustering/blob/main/iris.ipynb)
 		- [Task B: K-Means Clustering on Wine Dataset](https://github.com/yemigabriel/Unit6_KMeansCLustering/blob/main/wine.ipynb)
 		- [Task C: K-Means Clustering on WeatherAUS Dataset](https://github.com/yemigabriel/Unit6_KMeansCLustering/blob/main/weather.ipynb)
-	- **[Development Team Project: Project Analysis: Airbnb business analysis using data science approach](https://docs.google.com/document/d/11BYKiV6euakn5wwhpxWo7Ke6H6lwhrGP4llHwVp2RQA/edit?usp=sharing)**
+	- **[Development Team Project: Airbnb business analysis using data science approach](https://docs.google.com/document/d/11BYKiV6euakn5wwhpxWo7Ke6H6lwhrGP4llHwVp2RQA/edit?usp=sharing)**
 
 ---
 - ### Unit 7
@@ -79,7 +79,7 @@ A breakdown of each unit including the e-Portfolio and formative activities.
 - ### Unit 12
 	- **Artefacts:**
 		- [Descriptive/predictive/prescriptive) prognostic machine learning model used in industry 4.0.](#)
-		- [Reflective Essay](#)
+		- [Reflective Essay](artefacts/unit12/essay.md)
 
 
 ---
