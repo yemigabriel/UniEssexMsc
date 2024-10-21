@@ -78,7 +78,7 @@ A breakdown of each unit including the e-Portfolio and formative activities.
 ---
 - ### Unit 12
 	- **Artefacts:**
-		- [Descriptive/predictive/prescriptive) prognostic machine learning model used in industry 4.0.](#)
+		- [Descriptive/predictive/prescriptive) prognostic machine learning model used in industry 4.0.](artefacts/unit12/predictive.md)
 		- [Reflective Essay](artefacts/unit12/essay.md)
 
 
