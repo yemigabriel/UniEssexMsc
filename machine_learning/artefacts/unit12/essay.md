@@ -1,5 +1,7 @@
 ### Reflective Essay: Machine Learning Module
 
+[https://yemigabriel.github.io/UniEssexMsc/machine_learning](https://yemigabriel.github.io/UniEssexMsc/machine_learning)
+
 ---
 
 **Introduction**
