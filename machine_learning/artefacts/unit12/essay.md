@@ -1,4 +1,4 @@
-### Reflective Essay: Machine Learning
+### Reflective Essay: Machine Learning Module
 
 ---
 
