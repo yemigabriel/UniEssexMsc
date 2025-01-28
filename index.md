@@ -4,6 +4,7 @@
 ### Understanding Artificial Intelligence
 ### Numerical Analysis
 ### [Machine Learning](https://yemigabriel.github.io/UniEssexMsc/machine_learning)
+### [Knowledge Representation and Reasoning](https://yemigabriel.github.io/UniEssexMsc/knowledge_representation_reasoning)
 
 ---
 
