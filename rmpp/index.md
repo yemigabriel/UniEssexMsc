@@ -1,5 +1,5 @@
 # Module: Research Methods and Professional Practice
-Eportfolio of work done on my Research Methods and Professional Practice (2025) module at the University of Essex
+Eportfolio of work done on my Research Methods and Professional Practice module at the University of Essex
 
 ## Units
 A breakdown of each unit including the e-Portfolio and formative activities.
