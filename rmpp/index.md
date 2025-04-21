@@ -5,7 +5,7 @@ Eportfolio of work done on my Research Methods and Professional Practice (2025) 
 A breakdown of each unit including the e-Portfolio and formative activities.
 
 - ### Unit 1
-	- [Reflective Activity 1 – Ethics in Computing in the age of Generative AI](posts/reflective_activity1)**
+	- [Reflective Activity 1 – Ethics in Computing in the age of Generative AI](posts/reflective_activity1)
 	- [Collaborative Discussion 1: Initial Post](posts/discussion1_initial_post)
     - [_Reflections_](reflections/unit1)
 

@@ -1,7 +1,7 @@
 ## **SWOT Analysis**
 
 
-<div style="overflow-x: auto; min-width: 90vw;">
+<div style="overflow-x: auto; width: 900px;">
 
 |  | **Helpful to achieving the objective** | **Hamper achieving the objective** |
 |-----|:----|:----|
