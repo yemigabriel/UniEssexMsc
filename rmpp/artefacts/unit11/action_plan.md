@@ -1,8 +1,9 @@
 ## **Action Plan**
 
-
+```
 **Where do I want to be by the end of this period/year? What do I want to be doing? (Include as many learning needs as required to achieve agreed objectives)**
 
+<div style="overflow-x: auto; min-width: 120vw;">
 
 | What do I want/need to learn? Provide a specific description of the desired changes (e.g. skills to gain, knowledge to acquire, topics/themes/content to cover) | What do I have to do to achieve this? Some examples, a new/ongoing course, conference, self-development (like wider research or reading), coaching/mentoring, job shadowing | What resources or support will I need? Some examples, teaching staff support, library support, student advisor support, line manager, etc. | How will I measure success? Some examples, appraisals, course assessments, team feedback, tutor feedback | Target dates for review and completion Note that these need to be realistic/achievable |
 | :---- | :---- | :---- | :---- | :---- |
@@ -13,4 +14,6 @@
 
 
 
-## 
+</div>
+
+```
