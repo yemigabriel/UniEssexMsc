@@ -45,7 +45,6 @@ Eportfolio of work done on my Intelligent Agents module at the University of Ess
 ---
 - ### Unit 11
 	- **Development Individual Project: Presentation (Academic Research Online)**
-		- [Slides](#)
-		- [Oral Transcript](#)
-		- [Audio](#)
+		- [Powerpoint Slides](https://docs.google.com/presentation/d/18qmzqXtj1ELmOQ1C8IUiy6R_iYcrrbwK/edit?usp=sharing&ouid=118308030300523696513&rtpof=true&sd=true)
+		- [Transcript](https://docs.google.com/document/d/1bP5LaFr52lSJqEp1oJUBnYZpHID8l5U5/edit?usp=sharing&ouid=118308030300523696513&rtpof=true&sd=true)
 		- [Code](https://github.com/yemigabriel/IA_ResearchAgent)
