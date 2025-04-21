@@ -1,7 +1,7 @@
 ## **Action Plan**
 
 ```
-**Where do I want to be by the end of this period/year? What do I want to be doing? (Include as many learning needs as required to achieve agreed objectives)**
+_Where do I want to be by the end of this period/year? What do I want to be doing? (Include as many learning needs as required to achieve agreed objectives)_
 
 <div style="overflow-x: auto; min-width: 120vw;">
 
