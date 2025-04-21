@@ -32,7 +32,7 @@ A breakdown of each unit including the e-Portfolio and formative activities.
 
 ---
 - ### Unit 5 
-    - [Reflective Activity 2 - Case Study: Inappropriate Use of Surveys](artefacts/unit4/literature_review_outline)
+    - [Reflective Activity 2 - Case Study: Inappropriate Use of Surveys](posts/reflective_activity2)
     - [_Reflections_](reflections/unit5)
 
 
@@ -53,15 +53,16 @@ A breakdown of each unit including the e-Portfolio and formative activities.
 - ### Unit 8
 	- [Inferential Statistics and Hypothesis Testing (Exercises)](posts/statistics_worksheets_exe)
 	- [Research Proposal Outline](artefacts/unit8/research_proposal_outline)
-	- [Collaborative Discussion 2: Peer Response](posts/discussion2_peer_response_1)
-	- [Collaborative Discussion 2: Peer Response](posts/discussion2_peer_response_2)
-	- [Collaborative Discussion 2: Peer Response](posts/discussion2_peer_response_3)
+	- [Collaborative Discussion 2: Peer Response to Tarek](posts/discussion2_peer_response_1)
+	- [Collaborative Discussion 2: Peer Response to Nima](posts/discussion2_peer_response_2)
+	- [Collaborative Discussion 2: Peer Response to Andrius](posts/discussion2_peer_response_3)
     - [_Reflections_](reflections/unit8)
 
 
 
 ---
 - ### Unit 9
+	- [Collaborative Discussion 2: Summary Post](posts/discussion2_summary_post.md)
 	- [Chart Worksheet and Interpretations](posts/charts_worksheets_exe)
     - [_Reflections_](reflections/unit9)
 
